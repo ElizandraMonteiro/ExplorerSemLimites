@@ -18,4 +18,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by [Elizandra](https://rocketseat.com.br)
+Nele foi abordado os seguintes tópicos:
+
+- Exportando uma imagem do Figma
+
+- Importando fontes personalizadas
+
+- CSS Grid
+
+- O conceito de Flexbox
+
+- Iniciando com formulários
+
+- Conhecendo a tag textarea
+
+- Regra do mobile first
+
+- @medias
+
+- Animações com o CSS
+
+- Transições e transformações
+
+Feito com ♥ by [Elizandra Monteiro](https://rocketseat.com.br)
