@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src=".github/mobile.gif" width="50%">
+  <img alt="" src=".github/mobile.gif" width="20%">
 </p>
 
 ## 🚀 Tecnologias
