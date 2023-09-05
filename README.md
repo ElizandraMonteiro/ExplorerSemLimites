@@ -4,6 +4,10 @@
   <img alt="" src=".github/preview.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="" src=".github/mobile.gif" width="50%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
