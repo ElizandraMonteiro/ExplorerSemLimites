@@ -1,12 +1,13 @@
 <strong><h1 align="center">Explore sem limites</h1></strong>
 
 <p align="center">
-  <img alt="" src=".github/preview.png" width="100%">
+  <img alt="" src=".github/mobile.gif" width="30%">
 </p>
 
 <p align="center">
-  <img alt="" src=".github/mobile.gif" width="20%">
+  <img alt="" src=".github/preview.png" width="100%">
 </p>
+
 
 ## 🚀 Tecnologias
 
